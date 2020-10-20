@@ -1,1 +1,12 @@
-This repository was created with Reporaptor \rThis allows you to create a GitHib repo with files giving just the name and if you want a description.\rPosible future features:\rUpload existing repository\rDownload repositorie\r\rBy JP
+This repository was created with Reporaptor 
+
+This allows you to create a GitHib repo with files giving just the name and if you want a description.
+
+Posible future features:
+
+. Upload existing repository
+
+. Download repositories
+
+
+By JP
